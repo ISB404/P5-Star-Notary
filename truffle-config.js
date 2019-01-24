@@ -37,7 +37,7 @@ module.exports = {
   },
   rinkeby: {
    provider: function() {
-    return new HDWalletProvider("<your metamask seed>", "https://rinkeby.infura.io/v3/c63cff8f672847eabc0bbec6647352cc")
+    return new HDWalletProvider("cloth shallow negative scene benefit orbit shadow brief tilt illegal crunch hood", "https://rinkeby.infura.io/v3/c63cff8f672847eabc0bbec6647352cc")
       },
        network_id: '4',
        gas: 4500000,
